@@ -1,2 +1,2 @@
 <h1 align="center">Gionnino9000</h1>
-<p style="text-align:center;"><img src="https://i.gifer.com/6VYQ.gif" alt="Plank"></p>
+<p align="center"><img src="https://github.com/Gionnino9000/.github/blob/main/img/wide-plank.gif" alt="Plank"></p>
